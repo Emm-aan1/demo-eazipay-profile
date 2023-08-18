@@ -1098,3 +1098,9 @@
   font-family: var(--sub-header-h4-bold);
   border: 2px solid var(--old-styles-white-color);
 }
+
+@media screen and (max-width: 920px) {
+  .profile {
+    width: 100vw;
+  }
+}
